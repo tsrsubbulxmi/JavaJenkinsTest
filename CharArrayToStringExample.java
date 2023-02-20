@@ -1,6 +1,6 @@
-import org.json.JSONException;
-import org.json.JSONObject;
-import org.json.XML;
+import JSONException;
+import JSONObject;
+import XML;
 public class CharArrayToStringExample  
 {  
 public static void main(String args[])  
