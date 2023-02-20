@@ -1,4 +1,4 @@
-package com.Jenkins_email.Jenkins_email_test;
+//package com.Jenkins_email.Jenkins_email_test;
 public class CharArrayToStringExample  
 {  
 public static void main(String args[])  
