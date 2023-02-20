@@ -8,6 +8,6 @@ char[] ch = {'w', 'e', 'l', 'c', 'o', 'm', 'e', ' ' , 't', 'o', ' ', 'J', 'a', '
 String string = new String(ch);  
 //prints the string  
 System.out.println(string);  
-System.out.println("Hello World!!!");  
+//System.out.println("Hello World!!!");  
 }  
 }  
